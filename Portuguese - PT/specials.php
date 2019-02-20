@@ -1,59 +1,59 @@
 <?php
 
 $langspecials = array(
-"TXT_FAQ_Q_1"        => "Why is a newer truck better than an old one?",
-"TXT_FAQ_A_1"        => "If you have a truck with a lower age, it will require less maintenance.",
+"TXT_FAQ_Q_1"        => "Por que um caminhão mais novo é melhor que um antigo?",
+"TXT_FAQ_A_1"        => "Se você tiver um caminhão mais novo, ele vai exigir menos manutenção.",
 
-"TXT_FAQ_Q_2"        => "Why are some functions for premium users only?",
-"TXT_FAQ_A_2"        => "The refuel all function and 14 days finance overview need a lot of performance from our server. That's the reason we have chosen to limit it to premium users only.\n\n We have also made our Create Corporation option a premium one because we don't want just as much corporations as there are companies in this game.",
+"TXT_FAQ_Q_2"        => "Por que algumas funções são exclusivas para usuários premium?",
+"TXT_FAQ_A_2"        => "O reabastecimento de todas as funções e a visão geral de finanças de 14 dias precisam de muito desempenho do nosso servidor. Esse é o motivo pelo qual optamos por limitá-lo apenas aos usuários premium.\n\n Também tornamos nossa opção Criar Corporação um prêmio, porque não queremos tanto corporações quanto empresas neste jogo.",
 
-"TXT_FAQ_Q_3"        => "Which freight distance gives me the most money?",
-"TXT_FAQ_A_3"        => "In fact, it's always the best to take a shorter trip, because you will get more money in less time, but if you do so, you'll have to keep an eye on your freights the whole time. So only if you stay away for a longer period of time, it's better to accept a longer trip.\n\n But there's more; if you have an older truck or trailer (as in age of the truck/trailer), you will even get less money for a longer trip, because the maintenance cost will be really high.\n\n So if you want to stay away for longer periods of time and because of that, accept longer trips, you should buy a newer truck/trailer. Just to be clear; not one that's more expensive, but one that's less old.",
+"TXT_FAQ_Q_3"        => "Qual distância de frete me dá mais dinheiro?",
+"TXT_FAQ_A_3"        => "Na verdade, é sempre melhor fazer uma viagem mais curta, porque você ganhará mais dinheiro em menos tempo, mas, se fizer isso, terá que ficar de olho nos seus fretes o tempo todo. Então, somente se você ficar longe por um longo período de tempo, é melhor aceitar uma viagem mais longa.\n\n Mas há mais; se você tiver um caminhão ou reboque mais antigo (como na idade do caminhão / trailer), você terá ainda menos dinheiro para uma viagem mais longa, porque o custo de manutenção será muito alto. \ n \ n Então, se você quiser ficar longe por longos períodos de tempo e por causa disso, aceite viagens mais longas, você deve comprar um caminhão / trailer mais novo. Apenas para ser claro; não um que é mais caro, mas um que é menos antigo.",
 
-"TXT_FAQ_Q_5"        => "For whatever reason I'm stuck at a city. What should I do?",
-"TXT_FAQ_A_5"        => "You can always transfer your trucks, trailers and employees to another city if needed. Just go to your garage to select a truck or trailer or go to your employee overview and press the transfer button.",
+"TXT_FAQ_Q_5"        => "Por alguma razão, estou preso em uma cidade. O que devo fazer?",
+"TXT_FAQ_A_5"        => "Você sempre pode transferir seus caminhões, trailers e funcionários para outra cidade, se necessário. Basta ir à sua garagem para selecionar um caminhão ou trailer ou ir até a visão geral do funcionário e pressionar o botão de transferência.",
 
-"TXT_FAQ_Q_6"        => "When does my company get an invoice?",
-"TXT_FAQ_A_6"        => "Your company will get an invoice if the needed daily payments can't be automatically debited from your payment account. So this will happen if you don't have enough money or your money is on your savings account.",
+"TXT_FAQ_Q_6"        => "Quando minha empresa recebe uma fatura?",
+"TXT_FAQ_A_6"        => "Sua empresa receberá uma fatura se os pagamentos diários necessários não puderem ser debitados automaticamente da sua conta de pagamento. Então, isso acontecerá se você não tiver dinheiro suficiente ou se seu dinheiro estiver em sua conta poupança.",
 
-"TXT_FAQ_Q_7"        => "Is it allowed to have multiple accounts at the same house?",
-"TXT_FAQ_A_7"        => "Yes, that is allowed in this game. As long as you don't abuse it.",
+"TXT_FAQ_Q_7"        => "É permitido ter várias contas na mesma casa?",
+"TXT_FAQ_A_7"        => "Sim, isso é permitido neste jogo. Contanto que você não abuse disso.",
 
-"TXT_FAQ_Q_8"        => "What do you need a headquarter for?",
-"TXT_FAQ_A_8"        => "A headquarter is the location where your new trucks and trailers will be delivered.",
+"TXT_FAQ_Q_8"        => "O que você precisa para uma sede?",
+"TXT_FAQ_A_8"        => "A sede é o local onde os novos caminhões e reboques serão entregues.",
 
-"TXT_FAQ_Q_9"        => "What happens if I abuse my position as a corporation owner?",
-"TXT_FAQ_A_9"        => "It's possible we will take back your posibility to start a corporation. If you paid the premium option for starting a corporation, we won't give your premium credits back.",
+"TXT_FAQ_Q_9"        => "O que acontece se eu abusar da minha posição como dono de uma corporação?",
+"TXT_FAQ_A_9"        => "É possível recuperar a possibilidade de começar uma nova corporação. Se você pagou a opção premium por iniciar uma empresa, não devolveremos seus créditos premium.",
 
-"TXT_FAQ_Q_10"       => "What is a corporation?", 
-"TXT_FAQ_A_10"       => "Companies are able to join a corporation. How much companies can join depends on the amount and level of offices the corporation has bought. \n \n A corporation can buy fuel stations and refuel them in an hour of which the fuel price is at it's lowest (fuel prices change every hour). As the corporation owner you can then set a specific fuel price, so the companies in your corporation are able to refuel at a time in which the public fuel price is higher.\n\n Last but not least; every hour your corporation will get corporation freights. These freights will give the company that accepts the freight more money than a normal trip.",
+"TXT_FAQ_Q_10"       => "O que é uma corporação?", 
+"TXT_FAQ_A_10"       => "As empresas podem se juntar a uma corporação. A quantidade de empresas que podem ingressar depende da quantidade e do nível de escritórios que a empresa comprou.\n\n Uma corporação pode comprar postos de combustível e reabastecê-los em uma hora, da qual o preço do combustível está mais baixo (os preços dos combustíveis mudam a cada hora). Como proprietário da empresa, você pode definir um preço de combustível específico para que as empresas em sua empresa consigam reabastecer em um momento em que o preço do combustível público seja mais alto.\n\n Por último, mas não menos importante; a cada hora, sua corporação receberá fretes corporativos. Esses fretes darão à empresa que aceita o frete mais dinheiro do que uma viagem normal.",
 
-"TXT_FAQ_Q_11"       => "When do you need a Fuel Tank?",
-"TXT_FAQ_A_11"       => "A Fuel Tank is currently only for storing fuel that you've stolen from another companies.",
+"TXT_FAQ_Q_11"       => "Quando você precisa de um tanque de combustível?",
+"TXT_FAQ_A_11"       => "Atualmente, um tanque de combustível é usado apenas para armazenar combustível que você roubou de outras empresas.",
 
-"TXT_FAQ_Q_12"       => "Can I use the Speed Up buttons on the iOS app as well?",
-"TXT_FAQ_A_12"       => "No, unfortunately due to Apple's policies, it is not possible to use the Speed Up buttons in the iOS app.",
+"TXT_FAQ_Q_12"       => "Posso usar os botões Acelerar no aplicativo iOS também?",
+"TXT_FAQ_A_12"       => "Não, infelizmente devido às políticas da Apple, não é possível usar os botões Acelerar no aplicativo para iOS.",
 
-"TXT_FAQ_Q_13"       => "If I buy a premium account or fast action times, can I use it in the iOS and Android app?",
-"TXT_FAQ_A_13"       => "Yes, you will be able to use those in the iOS and Android app as well. \n\n In the iOS app the functions and buttons related to the premium functions are hidden, but they will appear when you've bought the functions on the website.",
+"TXT_FAQ_Q_13"       => "Se eu comprar uma conta premium ou tempos de ação rápidos, posso usá-la no aplicativo iOS e Android?",
+"TXT_FAQ_A_13"       => "Sim, você também poderá usar os aplicativos iOS e Android. \ n \ n No aplicativo para iOS, as funções e os botões relacionados às funções premium estão ocultos, mas aparecerão quando você tiver comprado as funções no site.",
 
-"TXT_FAQ_Q_14"       => "What happens if I buy premium on the Android app?",
-"TXT_FAQ_A_14"       => "If you buy premium functions on the Android app, you will be able to use them on the website and iOS app as well. There is no difference between buying premium functions on the website or the Android app.",
+"TXT_FAQ_Q_14"       => "O que acontece se eu comprar premium no aplicativo para Android?",
+"TXT_FAQ_A_14"       => "Se você comprar funções premium no aplicativo para Android, também poderá usá-las no website e no aplicativo para iOS. Não há diferença entre comprar funções premium no site ou no aplicativo Android.",
 
-"TXT_FAQ_Q_15"       => "How does my level progress?",
-"TXT_FAQ_A_15"       => "Your level will progress everytime you finish a freight.",
+"TXT_FAQ_Q_15"       => "Como meu nível progride?",
+"TXT_FAQ_A_15"       => "Seu nível irá progredir toda vez que você terminar um frete.",
 
-"TXT_FAQ_Q_16"       => "My employee called in sick. What should I do?",
-"TXT_FAQ_A_16"       => "You'll have to choose another employee for your freights, until he gets better. This will take at least 12 hours.",
+"TXT_FAQ_Q_16"       => "Meu empregado ligou doente. O que devo fazer?",
+"TXT_FAQ_A_16"       => "Você terá que escolher outro funcionário para seus fretes, até que ele melhore. Isso levará pelo menos 12 horas.",
 
-"TXT_FAQ_Q_17"       => "Why is the maintenance of my truck/trailer so high?",
-"TXT_FAQ_A_17"       => "If your truck or trailer requires a lot of maintenance, it is probably too old. The older he gets (number of days), the more maintenance he needs.",
+"TXT_FAQ_Q_17"       => "Por que a manutenção do meu caminhão / reboque é tão alta?",
+"TXT_FAQ_A_17"       => "Se o seu caminhão ou reboque exigir muita manutenção, provavelmente é muito antigo. Quanto mais velho ele fica (número de dias), mais manutenção ele precisa.",
 
-"TXT_FAQ_Q_18"       => "Can I restart the tutorial?",
-"TXT_FAQ_A_18"       => "You can restart the tutorial only by deleting your company. The tutorial will then automatically be restarted.",
+"TXT_FAQ_Q_18"       => "Posso reiniciar o tutorial?",
+"TXT_FAQ_A_18"       => "Você só poderá reiniciar o tutorial apenas excluindo sua empresa. O tutorial será então reiniciado automaticamente.",
 
-"TXT_TUTORIAL_1"             => "The first step in this game is to create a company.",
-"TXT_TUTORIAL_2"             => "You have got some default trucks and trailers. Go check them out!",
+"TXT_TUTORIAL_1"             => "O primeiro passo neste jogo é criar uma empresa.",
+"TXT_TUTORIAL_2"             => "Você tem alguns caminhões e trailers padrão. Vá dar uma olhada!",
 "TXT_TUTORIAL_3"             => "Press the information button of a truck or trailer.",
 "TXT_TUTORIAL_4"             => "The fuel tank of your trucks is empty. Go to the fuel station to refuel one of them.",
 "TXT_TUTORIAL_5"             => "Please refill your trucks.",
